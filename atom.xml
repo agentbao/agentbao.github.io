@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://agentbao.github.io</id>
     <title>宝生 Site</title>
-    <updated>2022-05-15T14:49:20.528Z</updated>
+    <updated>2022-05-15T14:50:47.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://agentbao.github.io"/>
     <link rel="self" href="https://agentbao.github.io/atom.xml"/>
@@ -17,6 +17,7 @@
         </link>
         <updated>2022-05-15T11:18:50.000Z</updated>
         <content type="html"><![CDATA[<p>🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹<br>
+<img src="https://agentbao.github.io/post-images/1652626235955.jpg" alt="" loading="lazy"><br>
 <img src="https://agentbao.github.io/post-images/1652613642628.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
