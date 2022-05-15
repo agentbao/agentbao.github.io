@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://agentbao.github.io</id>
     <title>宝生 Site</title>
-    <updated>2022-05-15T11:18:35.185Z</updated>
+    <updated>2022-05-15T11:25:45.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://agentbao.github.io"/>
     <link rel="self" href="https://agentbao.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://agentbao.github.io/images/avatar.png</logo>
     <icon>https://agentbao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 宝生 Site</rights>
+    <entry>
+        <title type="html"><![CDATA[1000天快乐！！]]></title>
+        <id>https://agentbao.github.io/post/1000-tian-kuai-le/</id>
+        <link href="https://agentbao.github.io/post/1000-tian-kuai-le/">
+        </link>
+        <updated>2022-05-15T11:18:50.000Z</updated>
+        <content type="html"><![CDATA[<p>🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹<br>
+<img src="https://agentbao.github.io/post-images/1652613642628.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://agentbao.github.io/post/hello-gridea/</id>
